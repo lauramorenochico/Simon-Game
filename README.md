@@ -1,4 +1,4 @@
-# Simon-Game
+# Simon-Game ! [](../adalab/simon.png)
 
 Simon game simulation made thanks to the tutorial of Beau Carnes.
 (Follow Beau on Twitter: @BeauCarnes)
