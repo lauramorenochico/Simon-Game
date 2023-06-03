@@ -1,7 +1,10 @@
 # Simon-Game
 
-Simon game simulation using javascript, HTML and CSS.
+Simon game simulation made thanks to the tutorial of Beau Carnes.
+(Follow Beau on Twitter: @BeauCarnes)
 You must repeat a sequence of lights and sound that the computer will show you.
+It has two game modes: normal and strict, where the first failure will restart the game.
+Complete 10 rounds to win, do you dare to try?
 
 ## Authors
 
@@ -13,7 +16,6 @@ You must repeat a sequence of lights and sound that the computer will show you.
 
 ## Tech Stack
 
-**Client:** HTML5, CSS, JS
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
