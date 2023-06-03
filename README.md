@@ -2,8 +2,11 @@
 
 Simon game simulation made thanks to the tutorial of Beau Carnes.
 (Follow Beau on Twitter: @BeauCarnes)
+
 You must repeat a sequence of lights and sound that the computer will show you.
+
 It has two game modes: normal and strict, where the first failure will restart the game.
+
 Complete 10 rounds to win, do you dare to try?
 
 ## Authors
