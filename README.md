@@ -1,4 +1,4 @@
-# Simon-Game ! [](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-vhfdf&psig=AOvVaw0s3U05PvHvJsSX4G7V8WO1&ust=1685878038396000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLCo9J7_pv8CFQAAAAAdAAAAABAE)
+# Simon-Game !
 
 Simon game simulation made thanks to the tutorial of Beau Carnes.
 (Follow Beau on Twitter: @BeauCarnes)
